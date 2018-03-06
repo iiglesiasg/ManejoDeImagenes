@@ -3,9 +3,7 @@ Microservicio para cargar y descargar imagenes con Spring
 
 # Upload
 La subida de la imagen se hace mensajes REST. 
-Se puede subir de dos formas:
-1.- Como File
-2.- En base 64
+Se puede subir de dos formas: Como File o en base 64
 
 # Download
 Hay expuesto un mensaje REST tipo GET que retorna un HTTP de tipo JPG
